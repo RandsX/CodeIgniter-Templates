@@ -18,7 +18,7 @@ class Home extends CI_Controller
 {
     public function index()
     {
-        $template->view('home', 'home/main');
+        $template->view('main_template', 'pages/main');
     }
 }
 
