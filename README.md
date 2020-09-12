@@ -25,3 +25,8 @@ class Home extends CI_Controller
 /* End of file Home.php */
 
 ```
+
+NOTE
+----
+
+PLEASE MAKE FOLDER PAGES IN FOLDER VIEWS, AND ENTER YOUR PAGE / FILE IN IT.
