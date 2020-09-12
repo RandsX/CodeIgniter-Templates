@@ -4,7 +4,7 @@ Template library for the CodeIgniter framework.
 How to use
 ----------
 
-* Setting the library in aotoload.file
+* Load the library in aotoload.file
 ```php
 $autoload['libraries'] = array('template');
 ```
